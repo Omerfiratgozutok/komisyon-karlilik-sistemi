@@ -46,8 +46,8 @@ komisyon-karlilik-sistemi/
 ```bash
 git clone https://github.com/Omerfiratgozutok/komisyon-karlilik-sistemi.git
 cd komisyon-karlilik-sistemi
-pip install -r requirements.txt
-python main.py
+  pip3 install -r requirements.txt
+  python3 main.py
 ```
 
 Rapor `output/rapor.html` dosyasında açılır.
